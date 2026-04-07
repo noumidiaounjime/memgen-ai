@@ -1,0 +1,5 @@
+{
+  "name": "MemeGen AI",
+  "description": "Générez des mèmes uniques en utilisant l'IA. Créez des images à partir de descriptions et ajoutez votre propre texte humoristique.",
+  "requestFramePermissions": []
+}
